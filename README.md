@@ -1,4 +1,3 @@
-# Woocommerce Product Privacy
 <img src="https://github.com/ryntab/Woocommerce-Product-Privacy/blob/main/Banner.jpg">
 
 `~Current Version:1.0.0~`
