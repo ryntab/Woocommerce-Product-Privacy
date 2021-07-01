@@ -165,6 +165,8 @@ class woo_product_privacy_Admin
 
 		if ($post_type != 'product') return;
 
+		if (is_shop()) return;
+
 		$privacy_options = get_option('woocommerce_product_privacy_option_name');
 
 		if ($privacy_options['hide_everything'] == 'hide_everything'){
